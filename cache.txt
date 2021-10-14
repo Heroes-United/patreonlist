@@ -24,3 +24,4 @@ Heroes_United:_Ben_10 3257688
 GeckoLib 3428833
 Heroes_United 3444757
 GeckoLib 3489641
+Heroes_United:_Core 3444757
