@@ -27,3 +27,4 @@ GeckoLib 3489641
 Heroes_United:_Core 3444757
 Heroes_United:_Ben_10 3469606
 Heroes_United:_Danny_Phantom 3458455
+Heroes_United:_Generator_Rex 3452220
