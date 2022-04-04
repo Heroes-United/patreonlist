@@ -129,3 +129,4 @@ GeckoLib 3699326
 Heroes_United:_Core 3239634
 GeckoLib 3711880
 GeckoLib 3734770
+GeckoLib 3734778
